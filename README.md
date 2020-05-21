@@ -1,5 +1,7 @@
 # React Facebook Pixel
 
+> Modified by Eric Page to use latest Github version not supplied by npm
+
 [![npm](https://img.shields.io/npm/dm/react-facebook-pixel.svg)](https://www.npmjs.com/package/react-facebook-pixel)
 
 > React JS wrapper for [Facebook's Pixel](https://developers.facebook.com/docs/facebook-pixel)
